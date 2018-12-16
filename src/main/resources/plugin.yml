@@ -1,0 +1,3 @@
+name: LoginMessage
+version: ${project.version}
+main: com.gmail.seityannmann.loginmessage.LoginMessage
