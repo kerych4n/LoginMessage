@@ -27,3 +27,5 @@ first: '&f%player &aさんご新規一名様ご来店です！'
 join: '&f%player &a様のご来店です。いらっしゃいませ'
 
 quit: '&f%player &a様がご退室です。ありがとうございました'
+
+
