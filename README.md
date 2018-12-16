@@ -1,4 +1,13 @@
-"# LoginMessage" 
-# LoginMessage
-# LoginMessage
-# LoginMessage
+#LoginMessage
+このプラグインはマインクラフトのサーバに参加や退出したときのメッセージを変更できるプラグイン
+
+使い方
+このプラグインをサーバーに読み込んださいにできるLoginMessageのフォルダーの中のconfig.yml中を変えることでメッセージの変更ができます
+
+プレイヤー:%player
+カラーコード:&
+
+初期
+first: '&f%player &aさんご新規一名様ご来店です！'
+join: '&f%player &a様のご来店です。いらっしゃいませ'
+quit: '&f%player &a様がご退室です。ありがとうございました'
